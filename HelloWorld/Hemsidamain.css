@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+h1{ color:royalblue;
+	font-family:cursive;
+	font-size: 55px;
+	font-style:oblique;
+	text-shadow: 3px 4px 9px rgb(83, 14, 100);
+	letter-spacing: -2px;
+	}
+
+	h2{
+		color:white;
+		letter-spacing: 2px;
+		background: plum;
+		display:table;
+		padding: 15px;
+		border: 10px solid purple
+	}
+
+	p {
+		color:aqua;
+		background: midnightblue;
+		display: table;
+		padding: 5px;
+		border:2px solid aqua;
+		
+	}
+	a{color: aqua;}
+	h4{
+		color: rgb(172, 190, 190);
+		background: black;
+		display: table;
+		padding: 15px;
+		border:5px  solid white;
+	}
+	ul{
+		color: rgb(172, 190, 190);
+		background: black;
+		display: table;
+		padding: 15px;
+		border:5px  solid white;
+	}
+	ol{
+		color: rgb(172, 190, 190);
+		background: black;
+		display:table;
+		padding: 15px;
+		border:5px  solid white;
+
+		line-height: -7000%;
+	}
+	.logo{
+		background-image: url("C:/Users/hn6943/Downloads/cozy cafe logga.jpeg");
+		background-color: aqua;
+		width: 200px;
+		height: 200px;
+		float: right;
+		background-repeat: no-repeat;
+		background-size: contain;
+	}
+	body{
+		background-color:bisque;
+		background-image: url("C:/Users/hn6943/Downloads/cozy cafe.jpeg");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	}
